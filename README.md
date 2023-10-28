@@ -2,7 +2,7 @@
 
 ## :computer: Projeto
 
-Repositório com exercícios sobre programação orientada a objetos e o uso de Listas, as estruturas dos projetos foram desenvolvidas usando console application utilizando a linguagem C# durante a Academia DotNet ministrada pela `Universidade Franciscana - UFN` 
+Repositório com exercícios sobre programação orientada a objetos e o uso de Listas, as estruturas dos projetos foram desenvolvidas usando  `Console Application` utilizando a linguagem C# durante a Academia DotNet ministrada pela `Universidade Franciscana - UFN` 
 
 ## :page_facing_up: Lista de Exercícios
 
@@ -20,7 +20,7 @@ Repositório com exercícios sobre programação orientada a objetos e o uso de 
   
 - Crie uma classe chamada Música que contenha os atributos nome, autor e gravadora. Após, crie uma classe Playlist que possua como atributo uma Lista de músicas e uma string para armazenar o dono da playlist. Implemente um método para adicionar músicas na lista, para "tocar a música" (só mostrar uma mensagem na tela com o titulo da música). Tente fazer uma reprodução aleatória, ou seja, em vez de percorrer do inicio ao fim da lista, faça um random para acessar valores aleatórios válidos.
 
-- ## :white_check_mark: Decisões Técnicas
+## :white_check_mark: Decisões Técnicas
 
 Nas respostas dos exercícios procurei manter o que tinha sido abordado durante as aulas, como por exemplo:
 
