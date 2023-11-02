@@ -5,19 +5,29 @@ VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Exercícios POO", "01 - Exercícios POO", "{ADB5B5DB-D3A4-48EA-BACB-AC8850FABE2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Academia.Dotnet.POO.Exercicio01", "ExerciciosPOO\Academia.Dotnet.POO.Exercicio01\Academia.Dotnet.POO.Exercicio01.csproj", "{131ADAD2-3377-4094-9EEE-29AD0809769E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Academia.Dotnet.POO.Exercicio01", "ExerciciosPOO\Academia.Dotnet.POO.Exercicio01\Academia.Dotnet.POO.Exercicio01.csproj", "{131ADAD2-3377-4094-9EEE-29AD0809769E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Academia.Dotnet.POO.Exercicio02", "ExerciciosPOO\Academia.Dotnet.POO.Exercicio02\Academia.Dotnet.POO.Exercicio02.csproj", "{49D1392F-5106-44DE-B254-A9ED8CF7A7A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Academia.Dotnet.POO.Exercicio02", "ExerciciosPOO\Academia.Dotnet.POO.Exercicio02\Academia.Dotnet.POO.Exercicio02.csproj", "{49D1392F-5106-44DE-B254-A9ED8CF7A7A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Academia.Dotnet.POO.Exercicio03", "ExerciciosPOO\Academia.Dotnet.POO.Exercicio03\Academia.Dotnet.POO.Exercicio03.csproj", "{C2C5B67B-A147-484B-9C13-21B40FAE46A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Academia.Dotnet.POO.Exercicio03", "ExerciciosPOO\Academia.Dotnet.POO.Exercicio03\Academia.Dotnet.POO.Exercicio03.csproj", "{C2C5B67B-A147-484B-9C13-21B40FAE46A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Academia.Dotnet.POO.Exercicio04", "ExerciciosPOO\Academia.Dotnet.POO.Exercicio04\Academia.Dotnet.POO.Exercicio04.csproj", "{9467E779-294E-4094-9C8A-E89FAD7646EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Academia.Dotnet.POO.Exercicio04", "ExerciciosPOO\Academia.Dotnet.POO.Exercicio04\Academia.Dotnet.POO.Exercicio04.csproj", "{9467E779-294E-4094-9C8A-E89FAD7646EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Academia.Dotnet.POO.Exercicio05", "ExerciciosPOO\Academia.Dotnet.POO.Exercicio05\Academia.Dotnet.POO.Exercicio05.csproj", "{999EAE7A-CAC4-4F6A-8B54-E169A839E2D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Academia.Dotnet.POO.Exercicio05", "ExerciciosPOO\Academia.Dotnet.POO.Exercicio05\Academia.Dotnet.POO.Exercicio05.csproj", "{999EAE7A-CAC4-4F6A-8B54-E169A839E2D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Academia.Dotnet.POO.Exercicio06", "ExerciciosPOO\Academia.Dotnet.POO.Exercicio06\Academia.Dotnet.POO.Exercicio06.csproj", "{14B34518-06B3-4411-B455-44C896F1330F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Academia.Dotnet.POO.Exercicio06", "ExerciciosPOO\Academia.Dotnet.POO.Exercicio06\Academia.Dotnet.POO.Exercicio06.csproj", "{14B34518-06B3-4411-B455-44C896F1330F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Academia.Dotnet.POO.Exercicio07", "ExerciciosPOO\Academia.Dotnet.POO.Exercicio07\Academia.Dotnet.POO.Exercicio07.csproj", "{6810AF17-7165-4D45-A44B-1B653E47EBAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Academia.Dotnet.POO.Exercicio07", "ExerciciosPOO\Academia.Dotnet.POO.Exercicio07\Academia.Dotnet.POO.Exercicio07.csproj", "{6810AF17-7165-4D45-A44B-1B653E47EBAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Academia.Dotnet.POO.Exercicio08", "ExerciciosPOO\Academia.Dotnet.POO.Exercicio08\Academia.Dotnet.POO.Exercicio08.csproj", "{F5A0DD2B-EB23-424D-BA8A-32D9FBC46C8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Academia.Dotnet.POO.Exercicio09", "ExerciciosPOO\Academia.Dotnet.POO.Exercicio09\Academia.Dotnet.POO.Exercicio09.csproj", "{B1A517B6-4952-4664-8DD4-D451953F06CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Academia.Dotnet.POO.Exercicio10", "ExerciciosPOO\Academia.Dotnet.POO.Exercicio10\Academia.Dotnet.POO.Exercicio10.csproj", "{FAAA1DBD-54F1-4C85-8A1D-5F2237E94FB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Academia.Dotnet.POO.Exercicio11", "ExerciciosPOO\Academia.Dotnet.POO.Exercicio11\Academia.Dotnet.POO.Exercicio11.csproj", "{D2B0A46D-6F2F-4A3D-A783-A35D8D72E304}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Academia.Dotnet.POO.Exercicio12", "ExerciciosPOO\Academia.Dotnet.POO.Exercicio12\Academia.Dotnet.POO.Exercicio12.csproj", "{BBA55A07-2EBD-49E3-8C16-9D04FFF87E8B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,6 +63,26 @@ Global
 		{6810AF17-7165-4D45-A44B-1B653E47EBAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6810AF17-7165-4D45-A44B-1B653E47EBAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6810AF17-7165-4D45-A44B-1B653E47EBAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5A0DD2B-EB23-424D-BA8A-32D9FBC46C8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5A0DD2B-EB23-424D-BA8A-32D9FBC46C8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5A0DD2B-EB23-424D-BA8A-32D9FBC46C8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5A0DD2B-EB23-424D-BA8A-32D9FBC46C8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1A517B6-4952-4664-8DD4-D451953F06CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1A517B6-4952-4664-8DD4-D451953F06CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1A517B6-4952-4664-8DD4-D451953F06CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1A517B6-4952-4664-8DD4-D451953F06CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAAA1DBD-54F1-4C85-8A1D-5F2237E94FB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAAA1DBD-54F1-4C85-8A1D-5F2237E94FB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAAA1DBD-54F1-4C85-8A1D-5F2237E94FB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAAA1DBD-54F1-4C85-8A1D-5F2237E94FB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2B0A46D-6F2F-4A3D-A783-A35D8D72E304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B0A46D-6F2F-4A3D-A783-A35D8D72E304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B0A46D-6F2F-4A3D-A783-A35D8D72E304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B0A46D-6F2F-4A3D-A783-A35D8D72E304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBA55A07-2EBD-49E3-8C16-9D04FFF87E8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA55A07-2EBD-49E3-8C16-9D04FFF87E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBA55A07-2EBD-49E3-8C16-9D04FFF87E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBA55A07-2EBD-49E3-8C16-9D04FFF87E8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -65,6 +95,11 @@ Global
 		{999EAE7A-CAC4-4F6A-8B54-E169A839E2D7} = {ADB5B5DB-D3A4-48EA-BACB-AC8850FABE2A}
 		{14B34518-06B3-4411-B455-44C896F1330F} = {ADB5B5DB-D3A4-48EA-BACB-AC8850FABE2A}
 		{6810AF17-7165-4D45-A44B-1B653E47EBAC} = {ADB5B5DB-D3A4-48EA-BACB-AC8850FABE2A}
+		{F5A0DD2B-EB23-424D-BA8A-32D9FBC46C8A} = {ADB5B5DB-D3A4-48EA-BACB-AC8850FABE2A}
+		{B1A517B6-4952-4664-8DD4-D451953F06CA} = {ADB5B5DB-D3A4-48EA-BACB-AC8850FABE2A}
+		{FAAA1DBD-54F1-4C85-8A1D-5F2237E94FB0} = {ADB5B5DB-D3A4-48EA-BACB-AC8850FABE2A}
+		{D2B0A46D-6F2F-4A3D-A783-A35D8D72E304} = {ADB5B5DB-D3A4-48EA-BACB-AC8850FABE2A}
+		{BBA55A07-2EBD-49E3-8C16-9D04FFF87E8B} = {ADB5B5DB-D3A4-48EA-BACB-AC8850FABE2A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E142AC38-9849-469A-A0F4-F72948424429}
