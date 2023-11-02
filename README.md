@@ -53,11 +53,26 @@ Nas respostas dos exercícios de 8 a 12, assim como nos primeiros exercícios, p
 
 - no exercício 9 optei em criar um método com vizibilidade privada para validar os campos `Título` e `Autor`, a minha motivação para isso é procurar manter um código mais limpo e organizado com o objetvo de deixar a sua leitura mais prática.   
 
-- no exercício 10 escolhi fazer a criação de uma classe chamada `Pessoa` com as variáveis `nome` `idade` e `altura`, na classe `Agenda` fiz a inicialização de uma lista de pessoas passanado exatamente a classe `Pessoa`, decidi aplicar essa abordagem porque na minha analise fez mais sentido aplicar essa solução procurando seguir boas práticas.
+- no exercício 12 escolhi fazer a criação de uma classe chamada `Pessoa` com as variáveis `nome` `idade` e `altura`, na classe `Agenda` fiz a inicialização de uma lista de pessoas passanado exatamente a classe `Pessoa`, decidi aplicar essa abordagem porque na minha analise fez mais sentido aplicar essa solução procurando seguir boas práticas.
 
 - nos exercícios além dos que foram solicitados eu decidi criar `entradas de dados`, tomei essa decisão pensando no lado do usuário, o objetivo foi tentar simular na medida do possível projetos reais.
 
-- nos demais exercícios procurei manter um padrão de desenvolvimento nas respostas, a intenção é facilitar a análise e leitura de meus códigos nesses projetos. 
+- nos demais exercícios procurei manter um padrão de desenvolvimento nas respostas, a intenção é facilitar a análise e leitura de meus códigos nesses projetos.
+
+## :page_facing_up: Links de Exercícios
+
+- [Desafio 1](https://github.com/PauloAlves8039/academia-dotnet-exercicios-poo-listas/tree/master/ExerciciosPOO/Academia.Dotnet.POO.Exercicio01)
+- [Desafio 2](https://github.com/PauloAlves8039/academia-dotnet-exercicios-poo-listas/tree/master/ExerciciosPOO/Academia.Dotnet.POO.Exercicio02)
+- [Desafio 3](https://github.com/PauloAlves8039/academia-dotnet-exercicios-poo-listas/tree/master/ExerciciosPOO/Academia.Dotnet.POO.Exercicio03)
+- [Desafio 4](https://github.com/PauloAlves8039/academia-dotnet-exercicios-poo-listas/tree/master/ExerciciosPOO/Academia.Dotnet.POO.Exercicio04)
+- [Desafio 5](https://github.com/PauloAlves8039/academia-dotnet-exercicios-poo-listas/tree/master/ExerciciosPOO/Academia.Dotnet.POO.Exercicio05)
+- [Desafio 6](https://github.com/PauloAlves8039/academia-dotnet-exercicios-poo-listas/tree/master/ExerciciosPOO/Academia.Dotnet.POO.Exercicio06)
+- [Desafio 7](https://github.com/PauloAlves8039/academia-dotnet-exercicios-poo-listas/tree/master/ExerciciosPOO/Academia.Dotnet.POO.Exercicio07)
+- [Desafio 8](https://github.com/PauloAlves8039/academia-dotnet-exercicios-poo-listas/tree/master/ExerciciosPOO/Academia.Dotnet.POO.Exercicio08)
+- [Desafio 9](https://github.com/PauloAlves8039/academia-dotnet-exercicios-poo-listas/tree/master/ExerciciosPOO/Academia.Dotnet.POO.Exercicio09)
+- [Desafio 10](https://github.com/PauloAlves8039/academia-dotnet-exercicios-poo-listas/tree/master/ExerciciosPOO/Academia.Dotnet.POO.Exercicio10)
+- [Desafio 11](https://github.com/PauloAlves8039/academia-dotnet-exercicios-poo-listas/tree/master/ExerciciosPOO/Academia.Dotnet.POO.Exercicio11)
+- [Desafio 12](https://github.com/PauloAlves8039/academia-dotnet-exercicios-poo-listas/tree/master/ExerciciosPOO/Academia.Dotnet.POO.Exercicio12)
 
 ## ✔️ Recursos Utilizados
 
