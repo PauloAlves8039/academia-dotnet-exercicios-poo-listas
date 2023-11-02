@@ -4,7 +4,7 @@
 
 Repositório com exercícios sobre programação orientada a objetos e o uso de Listas, as estruturas dos projetos foram desenvolvidas usando  `Console Application` utilizando a linguagem C# durante a Academia DotNet ministrada pela `Universidade Franciscana - UFN` 
 
-## :page_facing_up: Lista de Exercícios
+## :page_facing_up: Lista dos Exercícios
 
 1 - crie uma classe Produto com atributos como nome, preço e quantidade em estoque. Implemente um construtor e métodos para adicionar e remover itens do estoque.
 
@@ -59,7 +59,7 @@ Nas respostas dos exercícios de 8 a 12, assim como nos primeiros exercícios, p
 
 - nos demais exercícios procurei manter um padrão de desenvolvimento nas respostas, a intenção é facilitar a análise e leitura de meus códigos nesses projetos.
 
-## :page_facing_up: Links de Exercícios
+## :page_facing_up: Links dos Exercícios
 
 - [Desafio 1](https://github.com/PauloAlves8039/academia-dotnet-exercicios-poo-listas/tree/master/ExerciciosPOO/Academia.Dotnet.POO.Exercicio01)
 - [Desafio 2](https://github.com/PauloAlves8039/academia-dotnet-exercicios-poo-listas/tree/master/ExerciciosPOO/Academia.Dotnet.POO.Exercicio02)
