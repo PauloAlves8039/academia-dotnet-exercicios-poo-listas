@@ -45,7 +45,7 @@ Nas respostas dos exercícios de 1 a 7, procurei manter o que tinham sido aborda
 
 <hr>
 
-Nas respostas dos exercícios de 8 a 12, assim como nos primeiros exercícios, procurei manter o que tiham sido abordados durante as aulas, como por exemplo:
+Nas respostas dos exercícios de 8 a 12, assim como nos primeiros exercícios, procurei manter o que tinham sido abordados durante as aulas, como por exemplo:
 
 - foram feitos nesses exercícios o uso do `Encapsulamento` nas classes.
 
@@ -53,7 +53,7 @@ Nas respostas dos exercícios de 8 a 12, assim como nos primeiros exercícios, p
 
 - no exercício 9 optei em criar um método com vizibilidade privada para validar os campos `Título` e `Autor`, a minha motivação para isso é procurar manter um código mais limpo e organizado com o objetvo de deixar a sua leitura mais prática.   
 
-- no exercício 12 escolhi fazer a criação de uma classe chamada `Pessoa` com as variáveis `nome` `idade` e `altura`, na classe `Agenda` fiz a inicialização de uma lista de pessoas passanado exatamente a classe `Pessoa`, decidi aplicar essa abordagem porque na minha analise fez mais sentido aplicar essa solução procurando seguir boas práticas.
+- no exercício 12 decici fazer a criação de uma classe chamada `Pessoa` com as variáveis `nome` `idade` e `altura`, na classe `Agenda` fiz a inicialização de uma lista de pessoas passanado exatamente a classe `Pessoa`, escolhi aplicar essa abordagem porque analisando melhor fez mais sentido passar um objeto em uma lista de contatos nesse cenário.
 
 - nos exercícios além dos que foram solicitados eu decidi criar `entradas de dados`, tomei essa decisão pensando no lado do usuário, o objetivo foi tentar simular na medida do possível projetos reais.
 
